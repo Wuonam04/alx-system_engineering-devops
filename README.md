@@ -1,2 +1,2 @@
 #!/bin/bash
-two lines
+describing what each script is doing

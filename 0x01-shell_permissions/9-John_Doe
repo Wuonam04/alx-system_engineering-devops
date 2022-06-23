@@ -1,2 +1,2 @@
-#!/bin/bash
-753 hello
+#!/bin/bashch
+chmod 753 hello
